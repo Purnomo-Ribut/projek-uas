@@ -58,7 +58,7 @@ with dataset:
 
 		* bad_post merupakan Jumlah Reaksi "buruk" yang diterima oleh siswa
 
-		*amazing post merupakan Jumlah Reaksi "luar biasa" yang diterima oleh siswa
+		* amazing post merupakan Jumlah Reaksi "luar biasa" yang diterima oleh siswa
 
 		* timeonline merupakan Jumlah waktu (dalam detik) yang dihabiskan oleh siswa di lingkungan
 
