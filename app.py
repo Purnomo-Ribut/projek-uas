@@ -21,7 +21,7 @@ def load_dataset():
 	df = df.drop(columns=["Unnamed: 0"])
 	return df
 
-st.title('E-LEARNING STUDENTS REACTIONS')
+st.title('Prediksi E-LEARNING STUDENTS REACTIONS Dengan Naive Bayes ')
 st.write ("""Purnomo Ribut | 200411100156""")
 dataset, modelling, implementasi = st.tabs(["Dataset", "Modelling", "Implementasi"])
 
